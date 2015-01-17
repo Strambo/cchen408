@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Christopher Chen" >
+    <title>Services | Flat Theme</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->       
+        <link rel="shortcut icon" href="images/ico/naicon.ico">
+    <link rel="na-logo-icon" sizes="144x144" href="images/ico/nalogoicon144.png">
+    <link rel="na-logo-icon" sizes="114x114" href="images/ico/nalogoicon114.png">
+    <link rel="na-logo-icon" sizes="72x72" href="images/ico/nalogoicon72.png">
+    <link rel="na-logo-icon" href="images/ico/nalogoicon57.png">
+</head><!--/head-->
+<body>
+    <header class="navbar navbar-inverse navbar-fixed-top wet-asphalt" role="banner">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html"><img src="images/nalogo.png" alt="logo"></a>
+            </div>
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active"><a href="index.html">Home</a></li>
+                    <li><a href="index.html#about">About</a></li>
+                    <li><a href="meetings.html">Meetings</a></li>
+                    <li><a href="events.html">Events</a></li>
+                    <li><a href="committees.html">Committees</a></li>
+                   <li><a href="downloads.html">Downloads</a></li>
+                    <li><a href="links.html">Links</a></li> 
+                    <li><a href="contact-us.html">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </header><!--/header-->
+
+    <section id="title" class="emerald">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <h1>Committees</h1>
+                    <p>Narcotics Anonymous is built on the service of our volunteers workers.</p>
+                </div>
+                <div class="col-sm-6">
+                    <ul class="breadcrumb pull-right">
+                        <li><a href="index.html">Home</a></li>
+                        <li class="active">Committees</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section><!--/#title-->     
+
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="center gap">
+                        <h2>Santa Cruz Area</h2>
+                        <p>NA, as such, ought never be organized, but we may create service boards or committees directly responsible to those they serve.</p>
+                    </div>                
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="media">
+                        <div class="pull-left">
+                            <i class="icon-windows icon-md"></i>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">Public Relations</h3>
+                            <p></p>
+                        </div>
+                    </div>
+                </div><!--/.col-md-4-->
+                <div class="col-md-4 col-sm-6">
+                    <div class="media">
+                        <div class="pull-left">
+                            <i class="icon-android icon-md"></i>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">Hospitals and Institutions</h3>
+                            <p>We bring recovery to those who are not free to go to meetings themselves.</p>
+                        </div>
+                    </div>
+                </div><!--/.col-md-4-->
+                <div class="col-md-4 col-sm-6">
+                    <div class="media">
+                        <div class="pull-left">
+                            <i class="icon-apple icon-md"></i>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">Activities</h3>
+                            <p>Plan fun events for us to attend!</p>
+                        </div>
+                    </div>
+                </div><!--/.col-md-4-->
+            </div><!--/.row-->
+            <div class="gap"></div>
+            <div class="row">
+                <div class="col-md-4 col-sm-6">
+                    <div class="media">
+                        <div class="pull-left">
+                            <i class="icon-linux icon-md"></i>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">Literature</h3>
+                            <p></p>
+                        </div>
+                    </div>
+                </div><!--/.col-md-4-->
+                <div class="col-md-4 col-sm-6">
+                    <div class="media">
+                        <div class="pull-left">
+                            <i class="icon-dribbble icon-md"></i>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">MBCNA</h3>
+                            <p></p>
+                        </div>
+                    </div>
+                </div><!--/.col-md-4-->
+                <div class="col-md-4 col-sm-6">
+                    <div class="media">
+                        <div class="pull-left">
+                            <i class="icon-google-plus icon-md"></i>
+                        </div>
+                        <div class="media-body">
+                            <h3 class="media-heading">Dinosaur Days</h3>
+                            <p></p>
+                        </div>
+                    </div>
+                </div><!--/.col-md-4-->
+            </div><!--/.row-->
+ 
+        </div>
+    </section><!--/#services-->
+
+    <!--/#bottom-->
+
+    <footer id="footer" class="midnight-blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    &copy; 2014 Santa Cruz Area of Narcotics Anonymous. All Rights Reserved.
+                </div>
+                <div class="col-sm-6">
+                    <ul class="pull-right">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Faq</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                        <li><a id="gototop" class="gototop" href="#"><i class="icon-chevron-up"></i></a></li><!--#gototop-->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer><!--/#footer-->
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
