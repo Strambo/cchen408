@@ -71,6 +71,7 @@
              <div class="row">
                 <div class="col-md-12" align="center">
       						  <h3>Meeting Legend</h3>
+      						  <p>
          				</div>
 				</div>
 							
@@ -78,7 +79,7 @@
             <div class="col-md-12 col-sm-12">
            <div align="center">
 				<div class="table-legend">           
-            <table class="table-striped" border="1">
+            <table class="table-striped">
 
 					
 					<tr>  <td class="thick">CM</td>
@@ -124,6 +125,13 @@
 				</table></div></div>
 
 <p align="center" style="word-spacing: 0in; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><br />
+
+             <div class="row">
+                <div class="col-md-12" align="center">
+      						  <h3>Meeting Schedule</h3>
+      						  <p>
+         				</div>
+				</div>
 
 			   <div class="row">
             <div class="col-md-12 col-sm-12">
