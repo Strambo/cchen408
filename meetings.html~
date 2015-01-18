@@ -66,140 +66,127 @@
     </section><!--/#title-->
 
     <section id="meetings" class="container">
-        <div class="row">
-            <div class="col-sm-12">
-           <div align="center"><center>
-            
-            <table border="1" width="36%" height="21" id="table3">
 
-<tr>  <td width="95%" colspan="4" height="2">
+           
+             <div class="row">
+                <div class="col-md-12" align="center">
+      						  <h3>Meeting Legend</h3>
+         				</div>
+				</div>
+							
+			   <div class="row">
+            <div class="col-md-12 col-sm-12">
+           <div align="center">
+				<div class="table-legend">           
+            <table class="table-striped" border="1">
 
-       <p align="center"><font size="5">Meeting Legend:</font></td></tr>
-<tr>  <td width="5%" height="22"><b><font size="3" >CM</font></b></td>
-      <td width="32%" height="22"><font size="3" >&nbsp;Closed Meeting</font></td>
-      <td width="5%" height="22"><b><font size="3" >OP</font></b></td>
-      <td width="32%" height="22"><font size="3" >&nbsp;Open meeting</font></td></tr>
+					
+					<tr>  <td class="thick">CM</td>
+     							 <td>Closed Meeting</td>
+     							 <td class="thick">OP</td>
+      								<td>Open meeting</td></tr>
 			
-<tr>  <td width="5%" height="22"><b><font size="3" >BC</font></b></td>
-      <td width="32%" height="22"><font size="3" >&nbsp;Beginners' Chip Meeting</font></td>
-      <td width="5%" height="22"><b><font size="3" >CP</font></b></td>
-      <td width="32%" height="22"><font size="3" >&nbsp;Chip Meeting</font></td></tr>
+					<tr>  <td class="thick">BC</td>
+     							 <td>Beginners' Chip Meeting</td>
+    							  <td class="thick">CP</td>
+    						  <td>Chip Meeting</td></tr>
 			
-<tr>  <td width="5%" height="22"><b><font size="3" >SD</font></b></td>
-      <td width="32%" height="22"><font size="3" >&nbsp;Speaker / Discussion</font></td>
-      <td width="5%" height="22"><b><font size="3" >D</font></b></td>
-      <td width="32%" height="22"><font size="3" >&nbsp;Discussion</font></td></tr>
+					<tr>  <td class="thick">SD</td>
+  							    <td>Speaker / Discussion</td>
+    						  <td class="thick">D</td>
+    						  <td>Discussion</td></tr>
 
-<tr>  <td width="5%" height="22"><b><font size="3" >MM</font></b></td>
-      <td width="32%" height="22"><font size="3" >&nbsp;Men's Meeting</font></td>
-      <td width="5%" height="22"><b><font size="3" >BS</font></b></td>
-      <td width="32%" height="22"><font size="3" >&nbsp;Book Study</font></td></tr>
+					<tr>  <td class="thick">MM</td>
+					      <td>Men's Meeting</td>
+					      <td class="thick">BS</td>
+					      <td>Book Study</td></tr>
 
-<tr>  <td width="5%" height="22"><b><font size="3" >WM</font></b></td>
-      <td width="32%" height="22"><font size="3" >&nbsp;Women's Meeting&nbsp;</font></td>
-      <td width="5%" height="22"><b><font size="3" >BSJ</font></b></td>
-      <td width="32%" height="22"><font size="3" >&nbsp;Book Study &quot;Just For Today&quot;</font></td></tr>
+					<tr>  <td class="thick">WM</td>
+					      <td>Women's Meeting</td>
+					      <td class="thick">BSJ</td>
+					      <td>Book Study "Just For Today"</td></tr>
 	
-<tr>  <td width="5%" height="22"><b><font size="3" >WC</font></b></td>
-      <td width="32%" height="22"><font size="3" >&nbsp;Wheelchair Accessible</font></td>
-      <td width="5%" height="22"><b><font size="3" >CL</font></b></td>
-      <td width="32%" height="22"><font size="3" >&nbsp;Candlelight Meeting</font></td></tr>
+					<tr>  <td class="thick">WC</td>
+					      <td>Wheelchair Accessible</td>
+					      <td class="thick">CL</td>
+					      <td>Candlelight Meeting</td></tr>
+					
+					<tr>  <td class="thick">CF</td>
+					      <td>Childcare Provided</td>
+					      <td class="thick">SS</td>
+					      <td>Step Study</td></tr>
+					
+					<tr>  <td class="thick">SP</td>
+					      <td>Spanish Speaking</td>
+					      <td class="thick">IP</td>
+					      <td>Information Pamphlet Study</td></tr>
 
-<tr>  <td width="5%" height="22"><b><font size="3" >CF</font></b></td>
-      <td width="32%" height="22"><font size="3" >&nbsp;Childcare Provided</font></td>
-      <td width="5%" height="22"><b><font size="3" >SS</font></b></td>
-      <td width="32%" height="22"><font size="3" >&nbsp;Step Study</font></td></tr>
-
-<tr>  <td width="5%" height="22"><b><font size="3" >SP</font></b></td>
-      <td width="32%" height="22"><font size="3" >&nbsp;Spanish Speaking</font></td>
-      <td width="5%" height="22"><b><font size="3" >IP</font></b></td>
-      <td width="32%" height="22"><font size="3" >&nbsp;Information Pamphlet Study</font></td></tr>
-
-<tr>  <td width="5%" height="1"><b><font size="3" ></font></b></td>
-      <td width="32%" height="1"><font size="3" ></font></td>
-      <td width="5%" height="1"><b><font size="3" ></font></b></td>
-      <td width="32%" height="1"><font size="3" ></font></td></tr>
-
-</table></center></div>
+				</table></div></div>
 
 <p align="center" style="word-spacing: 0in; margin-left: 0in; margin-right: 0in; margin-top: 0in; margin-bottom: .0001pt"><br />
 
-<style type="text/css">
-	table.tableizer-table {
-	border: 1px solid #CCC; font-family: Verdana, Verdana, Geneva, sans-serif
-	font-size: 10px;
-} 
-.tableizer-table td {
-	padding: 4px;
-	margin: 3px;
-	border: 1px solid #ccc;
-}
-.tableizer-table th {
-	background-color: #800000; 
-	color: #FFF;
-	font-weight: bold;
-}
-</style>
+			   <div class="row">
+            <div class="col-md-12 col-sm-12">
+           <div align="center">
 
-<table class="tableizer-table">
+<table class="table table-striped">
 
+<tr class="tableizer-firstrow"><th>Day</th><th>Time</th><th>Meeting Name</th><th>Facility</th><th>Address</th><th>Legend</th></tr>
+<td>Sunday</td><td>10:00am</td><td>Breakfast Meeting</td><td>MHCAN (corner Soquel Ave)</td><td>1051 Cayuga Ave, Santa Cruz</td><td>OP, SD, WC</td></tr>
+<tr><td>&nbsp;</td><td>12:00pm</td><td>Sunday Nooner </td><td>County Bldg</td><td>1080 Emeline, Santa Cruz</td><td>OP, D</td></tr>
+<tr><td>&nbsp;</td><td>5:00pm</td><td>Just for Today </td><td>Little Red Church</td><td>532 Center St, Santa Cruz</td><td>OP, D, BSJ</td></tr>
+<tr><td>&nbsp;</td><td>6:00pm</td><td>Relapse No More </td><td>Garfield Park (Fireside Room?) </td><td>111 Errett Circle, Santa Cruz</td><td>OP, SD, WC</td></tr>
+<tr><td>&nbsp;</td><td>6:30pm</td><td>Samurai Recovery </td><td>St. Phillip’s Episcopal Church</td><td>5271 Scotts Valley Dr, Scotts Valley</td><td>CM, TD, WC</td></tr>
+<tr><td>&nbsp;</td><td>7:30pm</td><td>The Cross-Talk Meeting</td><td>Felton Presbyterian Church (In Back; Downstairs)</td><td>6090 Hwy 9, Felton</td><td>OP, BSJ, WC</td></tr>
+<tr><td>&nbsp;</td><td>8:00pm</td><td>Step Study </td><td>Barrios Unidos</td><td>1817 Soquel Ave, Santa Cruz</td><td>OP, SS</td></tr>
+ 
+ <tr><td>Monday</td><td>12:00pm</td><td>Monday Nooner </td><td>Louden Nelson Center Rm#1</td><td>301 Center St, Santa Cruz</td><td>OP, SD, WC</td></tr>
+ <tr><td>&nbsp;</td><td>5:45pm</td><td>Men’s Room </td><td>Louden Nelson Center</td><td>301 Center St, Santa Cruz</td><td>CM, MM, D, WC</td></tr>
+ <tr><td>&nbsp;</td><td>6:00pm</td><td>Together We Can </td><td>Mt. Calvary Lutheran Church</td><td>2402 Cabrillo College Dr, Soquel</td><td>OP, D, WC</td></tr>
+ <tr><td>&nbsp;</td><td>6:00pm</td><td>Traveling Gypsy Women</td><td>St. Phillip’s Episcopal Church</td><td>5271 Scotts Valley Dr, Scotts Valley</td><td>WM, OP, SD</td></tr>
+ <tr><td>&nbsp;</td><td>7:15pm</td><td>Living Clean</td><td>Resource Ctr for NonViolence</td><td>612 Ocean St, Santa Cruz</td><td>OP, D, BS, WC</td></tr>
+ <tr><td>&nbsp;</td><td>8:00pm</td><td>Don’t Take Nothin’ </td><td>Mid-County Senior Center</td><td>829 Bay Ave, Capitola</td><td>OP, CP, SD WC</td></tr>
+ <tr><td>&nbsp;</td><td>8:00pm</td><td>Principles Before Personalities</td><td>Methodist Church</td><td>229 Stanford St, Watsonville</td><td>OP, CP, SD WC</td></tr>
+ <tr><td>&nbsp;</td><td>8:00pm</td><td>Ben Lomond Library </td><td>Ben Lomond Library </td><td>9525 Mill St, Ben Lomond</td><td>OP, CP, SD WC</td></tr>
 
-<tr class="tableizer-firstrow"><th>I.D.</th><th>Day</th><th>Time</th><th>Meeting Name</th><th>Facility</th><th>Comment</th><th>Address</th><th>City</th><th>Legend</th></tr>
- <tr><td>1</td><td>Sunday</td><td>10:00am</td><td>Breakfast Meeting</td><td>MHCAN</td><td>corner Soquel Ave.</td><td>1051 Cayuga Ave.</td><td>Santa Cruz</td><td>OP, SD, WC</td></tr>
- <tr><td>2</td><td>&nbsp;</td><td>12:00pm</td><td>Sunday Nooner </td><td>County Bldg</td><td>&nbsp;</td><td>1080 Emeline</td><td>Santa Cruz</td><td>OP, D</td></tr>
- <tr><td>3</td><td>&nbsp;</td><td>5:00pm</td><td>Just for Today </td><td>Little Red Church</td><td>&nbsp;</td><td>532 Center St.</td><td>Santa Cruz</td><td>OP, D, BSJ</td></tr>
- <tr><td>4</td><td>&nbsp;</td><td>6:00pm</td><td>Relapse No More </td><td>Garfield Park </td><td>Fireside Room?</td><td>111 Errett Circle</td><td>Santa Cruz</td><td>OP, SD, WC</td></tr>
- <tr><td>5</td><td>&nbsp;</td><td>6:30pm</td><td>Samurai Recovery </td><td>St. Phillip’s Episcopal Church</td><td>&nbsp;</td><td>5271 Scotts Valley Dr.</td><td>Scotts Valley</td><td>CM, TD, WC</td></tr>
- <tr><td>6</td><td>&nbsp;</td><td>7:30pm</td><td>The Cross-Talk Meeting</td><td>Felton Presbyterian Church</td><td>In Back; Downstairs</td><td>6090 Hwy 9</td><td>Felton</td><td>OP, BSJ, WC</td></tr>
- <tr><td>7</td><td>&nbsp;</td><td>8:00pm</td><td>Step Study </td><td>Barrios Unidos</td><td>&nbsp;</td><td>1817 Soquel Ave.</td><td>Santa Cruz</td><td>OP, SS</td></tr>
- <tr></tr>
- <tr><td>8</td><td>Monday</td><td>12:00pm</td><td>Monday Nooner </td><td>Louden Nelson Center</td><td>Room No. 1</td><td>301 Center St.</td><td>Santa Cruz</td><td>OP, SD, WC</td></tr>
- <tr><td>9</td><td>&nbsp;</td><td>5:45pm</td><td>Men’s Room </td><td>Louden Nelson Center</td><td>Room No.</td><td>301 Center St.</td><td>Santa Cruz</td><td>CM, MM, D, WC</td></tr>
- <tr><td>10</td><td>&nbsp;</td><td>6:00pm</td><td>Together We Can </td><td>Mt. Calvary Lutheran Church</td><td>&nbsp;</td><td>2402 Cabrillo College Dr. </td><td>Soquel</td><td>OP, D, WC</td></tr>
- <tr><td>11</td><td>&nbsp;</td><td>6:00pm</td><td>Traveling Gypsy Women</td><td>St. Phillip’s Episcopal Church</td><td>&nbsp;</td><td>5271 Scotts Valley Dr.</td><td>Scotts Valley</td><td>WM, OP, SD</td></tr>
- <tr><td>12</td><td>&nbsp;</td><td>7:15pm</td><td>Living Clean</td><td>Resource Ctr for NonViolence</td><td>&nbsp;</td><td>612 Ocean St.</td><td>Santa Cruz</td><td>OP, D, BS, WC</td></tr>
- <tr><td>13</td><td>&nbsp;</td><td>8:00pm</td><td>Don’t Take Nothin’ </td><td>Mid-County Senior Center</td><td>&nbsp;</td><td>829 Bay Ave.</td><td>Capitola</td><td>OP, CP, SD WC</td></tr>
- <tr><td>14</td><td>&nbsp;</td><td>8:00pm</td><td>Principles Before Personalities</td><td>Methodist Church</td><td>&nbsp;</td><td>229 Stanford St.</td><td>Watsonville</td><td>OP, CP, SD WC</td></tr>
- <tr><td>15</td><td>&nbsp;</td><td>8:00pm</td><td>Ben Lomond Library </td><td>Ben Lomond Library </td><td>&nbsp;</td><td>9525 Mill St.</td><td>Ben Lomond</td><td>OP, CP, SD WC</td></tr>
- <tr></tr>
- <tr><td>16</td><td>Tuesday</td><td>12:00pm</td><td>Recovery at High Noon </td><td>Louden Nelson Center</td><td>Room No. 1</td><td>301 Center St.</td><td>Santa Cruz</td><td>OP, BS, WC</td></tr>
- <tr><td>17</td><td>&nbsp;</td><td>6:00pm</td><td>Beginner Chip Meeting </td><td>Mt. Calvary Lutheran Church</td><td>&nbsp;</td><td>2402 Cabrillo College Dr. </td><td>Soquel</td><td>OP, BS, WC</td></tr>
- <tr><td>18</td><td>&nbsp;</td><td>6:30pm</td><td>Takin’ it to the Streets </td><td>River St. Shelter Cafeteria</td><td>&nbsp;</td><td>115 C Coral St.</td><td>Santa Cruz</td><td>OP, SD, CP, WC</td></tr>
- <tr><td>19</td><td>&nbsp;</td><td>6:30pm</td><td>Ladies United NA (LUNA)</td><td>Methodist Church</td><td>&nbsp;</td><td>229 Stanford Street</td><td>Watsonville</td><td>WM, WC, SD, OP</td></tr>
- <tr><td>20</td><td>&nbsp;</td><td>8:00pm</td><td>High Spirits </td><td>New Life Center</td><td>&nbsp;</td><td>707 Fair Ave.</td><td>Santa Cruz</td><td>OP, CP, SD, WC</td></tr>
- <tr><td>21</td><td>&nbsp;</td><td>8:00pm</td><td>Recovery Starts Here </td><td>Community Covenant Church</td><td>&nbsp;</td><td>2700 El Rancho Dr.</td><td>Scotts Valley</td><td>OP, CP, SD, CL</td></tr>
- <tr><td>22</td><td>&nbsp;</td><td>8:00pm</td><td>Reading for Recovery</td><td>Methodist Church</td><td>&nbsp;</td><td>229 Stanford St.</td><td>Watsonville</td><td>OP, SD, BS</td></tr>
- <tr></tr>
- <tr><td>23</td><td>Wednesday</td><td>12:00pm</td><td>Back to Basics </td><td>Louden Nelson Center</td><td>Room No. 1</td><td>301 Center St.</td><td>Santa Cruz</td><td>OP, BS, WC</td></tr>
- <tr><td>24</td><td>&nbsp;</td><td>6:00pm</td><td>Wed. Night at Emeline </td><td>Emeline Basement</td><td>&nbsp;</td><td>1080 Emeline</td><td>Santa Cruz</td><td>SD, OP</td></tr>
- <tr><td>25</td><td>&nbsp;</td><td>6:30pm</td><td>Living With Illness & Injury in Recovery </td><td>MHCAN</td><td>corner Soquel Ave.</td><td>1051 Cayuga Ave</td><td>Santa Cruz</td><td>CM, D, WC</td></tr>
- <tr><td>26</td><td>&nbsp;</td><td>7:30pm</td><td>Can’t Do It Alone</td><td>Methodist Church</td><td>&nbsp;</td><td>229 Stanford St.</td><td>Watsonville</td><td>OP, SD, WC</td></tr>
- <tr><td>27</td><td>&nbsp;</td><td>8:00pm</td><td>No Known Cure</td><td>Louden Nelson Center</td><td>&nbsp;</td><td>301 Center St.</td><td>Santa Cruz</td><td>OP, SD, WC</td></tr>
- <tr><td>28</td><td>&nbsp;</td><td>8:00pm</td><td>Frontline Meeting </td><td>Barrios Unidos</td><td>&nbsp;</td><td>1817 Soquel Ave.</td><td>Santa Cruz</td><td>OP, D, CP, WC</td></tr>
- <tr><td>29</td><td>&nbsp;</td><td>8:00pm</td><td>Quarter Past </td><td>Ben Lomond Library </td><td>&nbsp;</td><td>9525 Mill St.</td><td>Ben Lomond</td><td>OP, SD, WC</td></tr>
- <tr></tr>
- <tr><td>30</td><td>Thursday</td><td>12:00pm</td><td>NA Lunch Break</td><td>Louden Nelson Center</td><td>Room No. 1</td><td>301 Center St.</td><td>Santa Cruz</td><td>OP, SD, WC</td></tr>
- <tr><td>31</td><td>&nbsp;</td><td>6:00pm</td><td>Women Together </td><td>Barrios Unidos</td><td>&nbsp;</td><td>1817 Soquel Ave.</td><td>Santa Cruz</td><td>WM, SD, CP, WC</td></tr>
- <tr><td>32</td><td>&nbsp;</td><td>6:00pm</td><td>Veterans & Friends in Recovery</td><td>Vet's Hall Basement</td><td>&nbsp;</td><td>846 Front St.</td><td>Santa Cruz</td><td>OP, TD, WC</td></tr>
- <tr><td>33</td><td>&nbsp;</td><td>7:30pm</td><td>Candlelight</td><td>Cabin 1</td><td>&nbsp;</td><td>150 Mountain St,</td><td>Boulder Creek</td><td>BSJ, OP</td></tr>
- <tr><td>34</td><td>&nbsp;</td><td>8:00pm</td><td>NA Uncut</td><td>Volunteer Center</td><td>&nbsp;</td><td>12 Carr St.</td><td>Watsonville</td><td>CM, SD, WC</td></tr>
- <tr><td>35</td><td>&nbsp;</td><td>8:00pm</td><td>Garfield Park </td><td>Garfield Park Church</td><td>&nbsp;</td><td>111 Errett Circle</td><td>Santa Cruz</td><td>OP, SD, CP, WC</td></tr>
- <tr><td>36</td><td>&nbsp;</td><td>8:00pm</td><td>Came to Believe </td><td>Little Red Church </td><td>&nbsp;</td><td>532 Center St.</td><td>Santa Cruz</td><td>OP, SD, WC</td></tr>
- <tr></tr>
- <tr><td>37</td><td>Friday</td><td>12:00pm</td><td>We Want It Now</td><td>Louden Nelson Center</td><td>Room No. 1</td><td>301 Center St.</td><td>Santa Cruz</td><td>OP, SD, WC</td></tr>
- <tr><td>38</td><td>&nbsp;</td><td>6:00pm</td><td>Men’s Alumni </td><td>Emeline Basement</td><td>&nbsp;</td><td>1080 Emeline</td><td>Santa Cruz</td><td>MM, D, WC</td></tr>
- <tr><td>39</td><td>&nbsp;</td><td>6:00pm</td><td>Another Women’s Mtg </td><td>Emeline, Bldg. K</td><td>&nbsp;</td><td>1400 Emeline St., Bldg. K</td><td>Santa Cruz</td><td>WM, D</td></tr>
- <tr><td>40</td><td>&nbsp;</td><td>7:00pm</td><td>Un Dia a la Vez </td><td>New Life Center</td><td>&nbsp;</td><td>707 Fair Ave.</td><td>Santa Cruz</td><td>O, SD, SP</td></tr>
- <tr><td>41</td><td>&nbsp;</td><td>8:00pm</td><td>Friday Night Life </td><td>New Life Center</td><td>&nbsp;</td><td>707 Fair Ave.</td><td>Santa Cruz</td><td>OP, SD, CP, WC</td></tr>
- <tr><td>42</td><td>&nbsp;</td><td>8:00pm</td><td>Beach Meeting </td><td>Little Red Church</td><td>&nbsp;</td><td> 532 Center St.</td><td>Santa Cruz</td><td>OP, SD, / WC</td></tr>
- <tr><td>43</td><td>&nbsp;</td><td>8:00pm</td><td>Keep it Simple </td><td>Volunteer Center</td><td>&nbsp;</td><td>12 Carr St.</td><td>Watsonville</td><td>SD, CM</td></tr>
- <tr><td>44</td><td>&nbsp;</td><td>8:00pm</td><td>Set ’Em Free </td><td>St. Phillip’s Episcopal Church</td><td>Mtg Rm in back</td><td>5271 Scotts Valley Dr.</td><td>Scotts Valley</td><td>OP, SD, CL</td></tr>
- <tr></tr>
- <tr><td>45</td><td>Saturday</td><td>12:00pm</td><td>Saturday Noon </td><td>Louden Nelson Center</td><td>Room No. 1</td><td>301 Center St.</td><td>Santa Cruz</td><td>OP, D, WC</td></tr>
- <tr><td>46</td><td>&nbsp;</td><td>6:00pm</td><td>Sat Night Candlelight </td><td>Community United Methodist</td><td>&nbsp;</td><td>221 Thunderbird Ln.</td><td>Aptos</td><td>OP, CL, SD, WC</td></tr>
- <tr><td>47</td><td>&nbsp;</td><td>6:00pm</td><td>Six in the Basement </td><td>Emeline Basement</td><td>&nbsp;</td><td>1080 Emeline</td><td>Santa Cruz</td><td>SD</td></tr>
- <tr><td>48</td><td>&nbsp;</td><td>7:30pm</td><td>Saturday Night Life </td><td>Emeline Basement</td><td>&nbsp;</td><td>1080 Emeline</td><td>Santa Cruz</td><td>OP, SD, WC</td></tr>
- <tr><td>49</td><td>&nbsp;</td><td>8:00pm</td><td>B-day Speaker Mtg </td><td>Emeline Basement</td><td>3rd Saturday ONLY</td><td>1080 Emeline</td><td>Santa Cruz</td><td>OP, CP, WC</td></tr>
+ <tr><td>Tuesday</td><td>12:00pm</td><td>Recovery at High Noon </td><td>Louden Nelson Center Rm#1</td><td>301 Center St, Santa Cruz</td><td>OP, BS, WC</td></tr>
+ <tr><td>&nbsp;</td><td>6:00pm</td><td>Beginner Chip Meeting </td><td>Mt. Calvary Lutheran Church</td><td>2402 Cabrillo College Dr, Soquel</td><td>OP, BS, WC</td></tr>
+ <tr><td>&nbsp;</td><td>6:30pm</td><td>Takin’ it to the Streets </td><td>River St. Shelter Cafeteria</td><td>115 C Coral St, Santa Cruz</td><td>OP, SD, CP, WC</td></tr>
+ <tr><td>&nbsp;</td><td>6:30pm</td><td>Ladies United NA (LUNA)</td><td>Methodist Church</td><td>229 Stanford Street, Watsonville</td><td>WM, WC, SD, OP</td></tr>
+ <tr><td>&nbsp;</td><td>8:00pm</td><td>High Spirits </td><td>New Life Center</td><td>707 Fair Ave, Santa Cruz</td><td>OP, CP, SD, WC</td></tr>
+ <tr><td>&nbsp;</td><td>8:00pm</td><td>Recovery Starts Here </td><td>Community Covenant Church</td><td>2700 El Rancho Dr, Scotts Valley</td><td>OP, CP, SD, CL</td></tr>
+ <tr><td>&nbsp;</td><td>8:00pm</td><td>Reading for Recovery</td><td>Methodist Church</td><td>229 Stanford St, Watsonville</td><td>OP, SD, BS</td></tr>
+
+ <tr><td>Wednesday</td><td>12:00pm</td><td>Back to Basics </td><td>Louden Nelson Center Rm#1</td><td>301 Center St, Santa Cruz</td><td>OP, BS, WC</td></tr>
+ <tr><td>&nbsp;</td><td>6:00pm</td><td>Wed. Night at Emeline </td><td>Emeline Basement</td><td>1080 Emeline, Santa Cruz</td><td>SD, OP</td></tr>
+ <tr><td>&nbsp;</td><td>6:30pm</td><td>Living With Illness & Injury in Recovery </td><td>MHCAN (corner Soquel Ave)</td><td>1051 Cayuga Ave, Santa Cruz</td><td>CM, D, WC</td></tr>
+ <tr><td>&nbsp;</td><td>7:30pm</td><td>Can’t Do It Alone</td><td>Methodist Church</td><td>229 Stanford St, Watsonville</td><td>OP, SD, WC</td></tr>
+ <tr><td>&nbsp;</td><td>8:00pm</td><td>No Known Cure</td><td>Louden Nelson Center</td><td>301 Center St, Santa Cruz</td><td>OP, SD, WC</td></tr>
+ <tr><td>&nbsp;</td><td>8:00pm</td><td>Frontline Meeting </td><td>Barrios Unidos</td><td>1817 Soquel Ave, Santa Cruz</td><td>OP, D, CP, WC</td></tr>
+ <tr><td>&nbsp;</td><td>8:00pm</td><td>Quarter Past </td><td>Ben Lomond Library </td><td>9525 Mill St, Ben Lomond</td><td>OP, SD, WC</td></tr>
+
+ <tr><td>Thursday</td><td>12:00pm</td><td>NA Lunch Break</td><td>Louden Nelson Center Rm#1</td><td>301 Center St, Santa Cruz</td><td>OP, SD, WC</td></tr>
+ <tr><td>&nbsp;</td><td>6:00pm</td><td>Women Together </td><td>Barrios Unidos</td><td>1817 Soquel Ave, Santa Cruz</td><td>WM, SD, CP, WC</td></tr>
+ <tr><td>&nbsp;</td><td>6:00pm</td><td>Veterans & Friends in Recovery</td><td>Vet's Hall Basement</td><td>846 Front St, Santa Cruz</td><td>OP, TD, WC</td></tr>
+ <tr><td>&nbsp;</td><td>7:30pm</td><td>Candlelight</td><td>Cabin 1</td><td>150 Mountain St, Boulder Creek</td><td>BSJ, OP</td></tr>
+ <tr><td>&nbsp;</td><td>8:00pm</td><td>NA Uncut</td><td>Volunteer Center</td><td>12 Carr St, Watsonville</td><td>CM, SD, WC</td></tr>
+ <tr><td>&nbsp;</td><td>8:00pm</td><td>Garfield Park </td><td>Garfield Park Church</td><td>111 Errett Circle, Santa Cruz</td><td>OP, SD, CP, WC</td></tr>
+ <tr><td>&nbsp;</td><td>8:00pm</td><td>Came to Believe </td><td>Little Red Church </td><td>532 Center St, Santa Cruz</td><td>OP, SD, WC</td></tr>
+
+ <tr><td>Friday</td><td>12:00pm</td><td>We Want It Now</td><td>Louden Nelson Center Rm#1</td><td>301 Center St, Santa Cruz</td><td>OP, SD, WC</td></tr>
+ <tr><td>&nbsp;</td><td>6:00pm</td><td>Men’s Alumni </td><td>Emeline Basement</td><td>1080 Emeline, Santa Cruz</td><td>MM, D, WC</td></tr>
+ <tr><td>&nbsp;</td><td>6:00pm</td><td>Another Women’s Mtg </td><td>Emeline, Bldg. K</td><td>1400 Emeline St, Bldg. K, Santa Cruz</td><td>WM, D</td></tr>
+ <tr><td>&nbsp;</td><td>7:00pm</td><td>Un Dia a la Vez </td><td>New Life Center</td><td>707 Fair Ave, Santa Cruz</td><td>O, SD, SP</td></tr>
+ <tr><td>&nbsp;</td><td>8:00pm</td><td>Friday Night Life </td><td>New Life Center</td><td>707 Fair Ave, Santa Cruz</td><td>OP, SD, CP, WC</td></tr>
+ <tr><td>&nbsp;</td><td>8:00pm</td><td>Beach Meeting </td><td>Little Red Church</td><td> 532 Center St, Santa Cruz</td><td>OP, SD, / WC</td></tr>
+ <tr><td>&nbsp;</td><td>8:00pm</td><td>Keep it Simple </td><td>Volunteer Center</td><td>12 Carr St, Watsonville</td><td>SD, CM</td></tr>
+ <tr><td>&nbsp;</td><td>8:00pm</td><td>Set ’Em Free </td><td>St. Phillip’s Episcopal Church (Mtg Rm in Back)</td><td>5271 Scotts Valley Dr, Scotts Valley</td><td>OP, SD, CL</td></tr>
+
+ <tr><td>Saturday</td><td>12:00pm</td><td>Saturday Noon </td><td>Louden Nelson Center Rm#1</td><td>301 Center St, Santa Cruz</td><td>OP, D, WC</td></tr>
+ <tr><td>&nbsp;</td><td>6:00pm</td><td>Sat Night Candlelight </td><td>Community United Methodist</td><td>221 Thunderbird Ln, Aptos</td><td>OP, CL, SD, WC</td></tr>
+ <tr><td>&nbsp;</td><td>6:00pm</td><td>Six in the Basement </td><td>Emeline Basement</td><td>1080 Emeline, Santa Cruz</td><td>SD</td></tr>
+ <tr><td>&nbsp;</td><td>7:30pm</td><td>Saturday Night Life </td><td>Emeline Basement</td><td>1080 Emeline, Santa Cruz</td><td>OP, SD, WC</td></tr>
+ <tr><td>3rd Sat. Only</td><td>8:00pm</td><td>B-day Speaker Mtg </td><td>Emeline Basement</td><td>1080 Emeline, Santa Cruz</td><td>OP, CP, WC</td></tr>
 </table>
 
 <br />
@@ -208,13 +195,16 @@
                 
                 
                 
-               
+      
+               </div>
             </div><!--/.col-sm-12-->
         </div><!--/.row-->
 
        <!-- <div class="gap"></div> -->
        </section>
-  <!--/#bottom-->
+       
+       
+ <!--/#bottom-->
 
     <footer id="footer" class="midnight-blue">
         <div class="container">
@@ -224,10 +214,9 @@
                 </div>
                 <div class="col-sm-6">
                     <ul class="pull-right">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Faq</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.html#about">About</a></li>
+                        <li><a href="contact-us.html">Contact Us</a></li>
                         <li><a id="gototop" class="gototop" href="#"><i class="icon-chevron-up"></i></a></li><!--#gototop-->
                     </ul>
                 </div>

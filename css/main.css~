@@ -22,7 +22,8 @@ td.thick {
 }
 
 .table-legend{
-	
+	border: 1px solid #CCC; font-family: Verdana, Verdana, Geneva, sans-serif
+	font-size: 10px;
 }
 
 .table-legend td{
