@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Christopher Chen" >
+    <title>Home | Santa Cruz NA</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->       
+    <link rel="shortcut icon" href="images/ico/naicon.ico">
+    <link rel="na-logo-icon" sizes="144x144" href="images/ico/nalogoicon144.png">
+    <link rel="na-logo-icon" sizes="114x114" href="images/ico/nalogoicon114.png">
+    <link rel="na-logo-icon" sizes="72x72" href="images/ico/nalogoicon72.png">
+    <link rel="na-logo-icon" href="images/ico/nalogoicon57.png">
+</head><!--/head-->
+<body>
+    <header class="navbar navbar-inverse navbar-fixed-top wet-asphalt" role="banner">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html"><img src="images/nalogo.png" alt="logo"></a>
+            </div>
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active"><a href="index.html">Home</a></li>
+                    <li><a href="index.html#about">About</a></li>
+                    <li><a href="meetings.html">Meetings</a></li>
+                    <li><a href="events.html">Events</a></li>
+                    <li><a href="committees.html">Committees</a></li>
+                    <li><a href="downloads.html">Downloads</a></li>
+                    <li><a href="links.html">Links</a></li> 
+                    <li><a href="contact-us.html">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </header><!--/header-->
+    <section id="main-slider" class="no-margin">
+        <div class="carousel slide wet-asphalt">
+            <ol class="carousel-indicators">
+                <li data-target="#main-slider" data-slide-to="0" class="active"></li>
+                <li data-target="#main-slider" data-slide-to="1"></li>
+                <!--<li data-target="#main-slider" data-slide-to="2"></li>-->
+            </ol>
+            <div class="carousel-inner">
+                <div class="item active" style="background-image: url(images/slider/santacruzarchway.jpg)">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="carousel-content center centered">
+                                		<p><h2 class="animation animated-item-1">Santa Cruz Public Relations</h2></p>
+                              	      <!--<p class="boxed animation animated-item-2">Narcotics Anonymous</p>-->
+                              			 <a class="btn btn-md animation animated-item-2" href="meetings.html">Meeting Schedule</a>
+                                  
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--/.item-->
+                <div class="item" style="background-image: url(images/slider/santacruzboardwalk.jpg)">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="carousel-content center centered">
+                                     <p><h2 class="boxed animation animated-item-1">Need help?</h2></p>
+                                    <p class="boxed animation animated-item-2">Santa Cruz Area NA Helpline: (831) 429-7436</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+					             
+        </div><!--/.carousel-->
+        <a class="prev hidden-xs" href="#main-slider" data-slide="prev">
+            <i class="icon-angle-left"></i>
+        </a>
+        <a class="next hidden-xs" href="#main-slider" data-slide="next">
+            <i class="icon-angle-right"></i>
+        </a>
+    </section>
+
+
+ <section id="title" class="emerald">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <h1>About Us</h1>
+                    <p>What is Narcotics Anonymous?</p>
+                </div>
+                <div class="col-sm-6">
+                    <ul class="breadcrumb pull-right">
+                        <li><a href="index.html">Home</a></li>
+                        <li class="active">About</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section><!--/#title-->
+
+    <section id="about" class="container">
+        <div class="row">
+            <div class="col-sm-8">
+                <h2>Who we are</h2>
+                <p>NA is a nonprofit fellowship or society of men and women for whom drugs had become a major problem. We are recovering addicts who meet regularly to help each other stay clean. This is a program of complete abstinence from all drugs. There is only one requirement for membership, the desire to stop using. We suggest that you keep an open mind and give yourself a break. Our program is a set of principles written so simply that we can follow them in our daily lives. The most important thing about them is that they work. There are no strings attached to NA. We are not affiliated with any other organizations. We have no initiation fees or dues, no pledges to sign, no promises to make to anyone. We are not connected with any political, religious, or law enforcement groups, and are under no surveillance at any time. Anyone may join us, regardless of age, race, sexual identity, creed, religion, or lack of religion. We are not interested in what or how much you used or who your connections were, what you have done in the past, how much or how little you have, but only in what you want to do about your problem and how we can help. The newcomer is the most important person at any meeting, because we can only keep what we have by giving it away. We have learned from our group experience that those who keep coming to our meetings regularly stay clean.</p>
+            </div>   <!--/.col-sm-8-->
+            
+            <!--added some space between the two columns-->
+				<div class="col-sm-1"></div>
+            
+          
+            <div class="col-sm-3">
+            		<div>
+                <h2>Area Helpline</h2>
+                <break>
+					<p><h4>phone:</h4> 
+					<p>(831) 429-7436
+					<p><h4>address:</h4>
+					<p>PO Box 5143
+					<p>Santa Cruz, CA 95063                
+                </div>
+            </div><!--/.col-sm-3-->
+        </div><!--/.row-->
+      </section>
+
+
+
+ <!--/#bottom-->
+
+    <footer id="footer" class="midnight-blue">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    &copy; 2014 Santa Cruz Area of Narcotics Anonymous. All Rights Reserved.
+                </div>
+                <div class="col-sm-6">
+                    <ul class="pull-right">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index.html#about">About</a></li>
+                        <li><a href="contact-us.html">Contact Us</a></li>
+                        <li><a id="gototop" class="gototop" href="#"><i class="icon-chevron-up"></i></a></li><!--#gototop-->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer><!--/#footer-->
+
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.prettyPhoto.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
